@@ -13,6 +13,7 @@ public class labJava {
     public static void main(String [ ] args) {
         int x = 5;
         System.out.println( "f(" + x +") = "+ f(x));
-        System.out.println("This is Java code exmaple");
+        System.out.println("This is Java code example");
+        System.out.println("This is Version 2 of program");
     }
 }
